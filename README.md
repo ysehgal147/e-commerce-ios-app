@@ -14,13 +14,7 @@
 Made using SwiftUI, Frontend is almost complete, working on Backend and other Features
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.00.22.png" width="300">
-
-<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.39.00.png" width="300">
-
-<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.00.34.png" width="300">
-
-<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.39.17.png" width="300">
+<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.00.22.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.39.00.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.00.34.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.39.17.png" width="300">
 
 ## Technologies
 * SwiftUI
